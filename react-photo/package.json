@@ -1,7 +1,7 @@
 {
   "name": "react-photo",
   "version": "0.1.0",
-  "homepage": "https://valerealcade.github.io/photo",
+  "homepage": "https://valerealcade.github.io/react-photo",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
